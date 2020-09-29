@@ -14,8 +14,6 @@ class Banner extends Component {
               src="/images/853.jpg"
               alt="First slide"
             />
-            <Carousel.Caption>
-            </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
             <img
@@ -23,9 +21,7 @@ class Banner extends Component {
               src="/images/31958.jpg"
               alt="Second slide"
             />
-            <Carousel.Caption>
-              <h3>Second slide label</h3>
-            </Carousel.Caption>
+
           </Carousel.Item>
           <Carousel.Item>
             <img

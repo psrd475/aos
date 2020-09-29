@@ -1,3 +1,31 @@
+.circle {
+  margin: 25px 10px;
+  width: 200px;
+  color: #fff;
+  font-size: 32px;
+  line-height: 200px;
+  text-align: center;
+  height: 200px;
+  border-radius: 100px;
+}
+.bg-yellow {
+  background: #ffcc35;
+}
+.bg-green {
+  background: #5bd5a0;
+}
+.bg-red {
+  background: #eb3980;
+}
+.bg-sky{
+  background-color: skyblue!important;
+}
+
+
+
+
+/* Aos
+
 body {
   font-size: 1.2em;
   font-family: 'Lato';
@@ -21,4 +49,7 @@ body {
 
 .b {
   margin: 40vh auto 0 auto;
-}
+} */
+
+
+ 
